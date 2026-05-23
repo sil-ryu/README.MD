@@ -96,18 +96,9 @@ I'm an AI/ML engineer and full-stack developer finishing my Computer Engineering
 
 <div align="center">
 
-<table><tr>
-<td>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=sil-ryu&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)
-
-</td>
-<td>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sil-ryu&layout=compact&theme=radical&hide_border=true&cache_seconds=1800&langs_count=8)
-
-</td>
-</tr></table>
+![Profile Views](https://komarev.com/ghpvc/?username=sil-ryu&style=flat-square&color=fe428e&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/sil-ryu?style=flat-square&color=a960e4&label=FOLLOWERS&logo=github)
+![Stars](https://img.shields.io/github/stars/sil-ryu?style=flat-square&color=f8d847&label=TOTAL+STARS&logo=github)
 
 <br/>
 
