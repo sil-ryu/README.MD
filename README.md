@@ -37,36 +37,44 @@ I'm an AI/ML engineer and full-stack developer finishing my Computer Engineering
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=A8B5C8)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=A8B5C8)
-![Java](https://img.shields.io/badge/Java-1a1a2e?style=flat-square&logo=openjdk&logoColor=A8B5C8)
-![C](https://img.shields.io/badge/C-1a1a2e?style=flat-square&logo=c&logoColor=A8B5C8)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
 **ML / AI**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-1a1a2e?style=flat-square&logo=pytorch&logoColor=A8B5C8)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-1a1a2e?style=flat-square&logo=ultralytics&logoColor=A8B5C8)
-![Transformers](https://img.shields.io/badge/HuggingFace-1a1a2e?style=flat-square&logo=huggingface&logoColor=A8B5C8)
-![Llama](https://img.shields.io/badge/Llama_3.3-1a1a2e?style=flat-square&logo=meta&logoColor=A8B5C8)
-![FAISS](https://img.shields.io/badge/FAISS_RAG-1a1a2e?style=flat-square&logoColor=A8B5C8)
-![OpenCV](https://img.shields.io/badge/OpenCV-1a1a2e?style=flat-square&logo=opencv&logoColor=A8B5C8)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=ultralytics&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama_3.3-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper_STT-412991?style=flat-square&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS_RAG-00A67E?style=flat-square&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Gymnasium](https://img.shields.io/badge/Gymnasium-RL-8B5CF6?style=flat-square&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-edge-6B7280?style=flat-square&logoColor=white)
 
 **Backend / Full-Stack**
 
-![Django](https://img.shields.io/badge/Django-1a1a2e?style=flat-square&logo=django&logoColor=A8B5C8)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=flat-square&logo=fastapi&logoColor=A8B5C8)
-![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=A8B5C8)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-1a1a2e?style=flat-square&logo=tailwindcss&logoColor=A8B5C8)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=A8B5C8)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **DevOps / Infra**
 
-![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=A8B5C8)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1a2e?style=flat-square&logo=githubactions&logoColor=A8B5C8)
-![Railway](https://img.shields.io/badge/Railway-1a1a2e?style=flat-square&logo=railway&logoColor=A8B5C8)
-![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=flat-square&logo=linux&logoColor=A8B5C8)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-1a1a2e?style=flat-square&logo=raspberrypi&logoColor=A8B5C8)
-![ESP32](https://img.shields.io/badge/ESP32-1a1a2e?style=flat-square&logo=espressif&logoColor=A8B5C8)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
 </div>
 
@@ -107,9 +115,9 @@ I'm an AI/ML engineer and full-stack developer finishing my Computer Engineering
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-silragon--ryu-1a1a2e?style=flat-square&logo=linkedin&logoColor=A8B5C8)](https://linkedin.com/in/ahmed-boray)
-[![Instagram](https://img.shields.io/badge/Instagram-@sil__ryu-1a1a2e?style=flat-square&logo=instagram&logoColor=A8B5C8)](https://instagram.com/sil_ryu)
-[![Email](https://img.shields.io/badge/Email-silragon.ryu%40-1a1a2e?style=flat-square&logo=gmail&logoColor=A8B5C8)](mailto:silragonryu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-boray)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/sil_ryu)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedegy263@gmail.com)
 
 </div>
 
