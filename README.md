@@ -96,8 +96,8 @@ I'm an AI/ML engineer and full-stack developer finishing my Computer Engineering
 
 <div align="center">
 
-<!-- Replace github-readme-stats-nine-lac-68.vercel.app below with your own deployed instance of github-readme-stats -->
-<!-- Fork: https://github.com/anuraghazra/github-readme-stats → Deploy on Vercel with PAT_1 env var -->
+[<!-- Replace github-readme-stats-nine-lac-68.vercel.app below with your own deployed instance of github-readme-stats -->
+<!-- Fork: https://github.com/anuraghazra/github-readme-stats → Deploy on Vercel with PAT_1 env var -->](https://github-readme-stats-eight-nu-83.vercel.app/)
 
 <table><tr>
 <td>
