@@ -96,15 +96,26 @@ I'm an AI/ML engineer and full-stack developer finishing my Computer Engineering
 
 <div align="center">
 
-![sil-ryu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sil-ryu&show_icons=true&theme=tokyo-night&hide_border=true&include_all_commits=true&count_private=true)
+<table><tr>
+<td>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=sil-ryu&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)
+
+</td>
+<td>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sil-ryu&layout=compact&theme=radical&hide_border=true&cache_seconds=1800&langs_count=8)
+
+</td>
+</tr></table>
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sil-ryu&theme=tokyo-night&no-frame=true&no-bg=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sil-ryu&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sil-ryu&theme=tokyo-night&hide_border=true&area=true&color=A8B5C8&line=6e8caf&point=A8B5C8)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sil-ryu&theme=radical&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
 
