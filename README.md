@@ -84,11 +84,11 @@ I'm an AI/ML engineer and full-stack developer finishing my Computer Engineering
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| **[Koryu](https://github.com/silragon-ryu/koryu)** 🐉 | Fully offline edge-AI security system — YOLOv8 weapon detection at 25 FPS, Phi-3 Mini + Whisper STT, FAISS RAG on Raspberry Pi 5 | Python · NCNN · llama.cpp · PySide6 |
-| **[KAGE OS](https://github.com/silragon-ryu/kage-os)** 🌑 | Desktop-OS-style portfolio with GitHub & Scholar live integrations. Dark Japanese aesthetic. | Django · React/Vite · Railway |
-| **[Shinryu](https://github.com/silragon-ryu/shinryu)** ⚡ | Flow-based execution engine — intent parsing, domain-capped scheduling, single-next-action architecture | Django · PostgreSQL · LLM chain |
-| **[RYU-Scape](https://github.com/silragon-ryu/ryu-scape)** 🛰️ | Satellite imagery analysis with evolutionary NAS for flood detection (JP/EG domains) | Python · PyTorch · Gymnasium |
-| **[Komi](https://github.com/silragon-ryu/komi)** 🪞 | Emotion & cognitive distortion detection app — fine-tuned DistilRoBERTa, 92.85% accuracy | Django · NLP · TF-IDF |
+| **[Koryu](https://github.com/sil-ryu/koryu)** 🐉 | Fully offline edge-AI security system — YOLOv8 weapon detection at 25 FPS, Phi-3 Mini + Whisper STT, FAISS RAG on Raspberry Pi 5 | Python · NCNN · llama.cpp · PySide6 |
+| **[KAGE OS](https://github.com/sil-ryu/kage-os)** 🌑 | Desktop-OS-style portfolio with GitHub & Scholar live integrations. Dark Japanese aesthetic. | Django · React/Vite · Railway |
+| **[Shinryu](https://github.com/sil-ryu/shinryu)** ⚡ | Flow-based execution engine — intent parsing, domain-capped scheduling, single-next-action architecture | Django · PostgreSQL · LLM chain |
+| **[RYU-Scape](https://github.com/sil-ryu/ryu-scape)** 🛰️ | Satellite imagery analysis with evolutionary NAS for flood detection (JP/EG domains) | Python · PyTorch · Gymnasium |
+| **[Komi](https://github.com/sil-ryu/komi)** 🪞 | Emotion & cognitive distortion detection app — fine-tuned DistilRoBERTa, 92.85% accuracy | Django · NLP · TF-IDF |
 
 ---
 
@@ -96,15 +96,15 @@ I'm an AI/ML engineer and full-stack developer finishing my Computer Engineering
 
 <div align="center">
 
-![silragon-ryu's GitHub stats](https://github-readme-stats.vercel.app/api?username=silr-ryu&show_icons=true&theme=tokyo-night&hide_border=true&include_all_commits=true&count_private=true)
+![sil-ryu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sil-ryu&show_icons=true&theme=tokyo-night&hide_border=true&include_all_commits=true&count_private=true)
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=silr-ryu&theme=tokyo-night&no-frame=true&no-bg=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sil-ryu&theme=tokyo-night&no-frame=true&no-bg=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=silr-ryu&theme=tokyo-night&hide_border=true&area=true&color=A8B5C8&line=6e8caf&point=A8B5C8)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sil-ryu&theme=tokyo-night&hide_border=true&area=true&color=A8B5C8&line=6e8caf&point=A8B5C8)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
 
