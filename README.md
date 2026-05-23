@@ -107,7 +107,7 @@ I'm an AI/ML engineer and full-stack developer finishing my Computer Engineering
 ## 📄 Publications
 
 - **Ahmed Boray et al.** — *Deep Learning for Pediatric Cardiovascular MRI Segmentation* · European Heart Journal Digital Health, 2026
-- **Ahmed Boray et al.** — *[Title]* · TIPTEKNO, 2025
+- **Ahmed Boray et al.** — *3D U-Net-Based Deep Learning Approach for Pediatric Cardiovascular MRI Segmentation* · TIPTEKNO, 2025
 
 ---
 
