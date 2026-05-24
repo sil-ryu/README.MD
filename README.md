@@ -100,6 +100,7 @@ I'm an AI/ML engineer and full-stack developer finishing my Computer Engineering
 ![Followers](https://img.shields.io/github/followers/sil-ryu?style=for-the-badge&color=a960e4&label=FOLLOWERS&logo=github&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/sil-ryu?style=for-the-badge&color=f8d847&label=TOTAL+STARS&logo=github&logoColor=black)
 ![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=fd7014&label=PUBLIC+REPOS&logo=github&logoColor=white&query=public_repos&url=https://api.github.com/users/sil-ryu)
+[![wakatime](https://wakatime.com/badge/user/7253bd4a-7260-412c-888d-d4d094120e2e.svg)](https://wakatime.com/@7253bd4a-7260-412c-888d-d4d094120e2e)
 
 <br/>
 
